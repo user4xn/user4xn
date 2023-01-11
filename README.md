@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user4xn&label=Profile%20views&color=0e75b6&style=flat" alt="user4xn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=user4xn" alt="user4xn" /></a> </p>
-
 - 🔭 I’m currently working on [Komerce](https://github.com/Komerce)
 
 - 🌱 I’m currently learning **Gin, Laravel, Lumen, Express.js, Vue, and Codeigniter**
