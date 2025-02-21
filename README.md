@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Wildan Candra</h1>
-<h3 align="center">A passionate Backend Web Engineer from Indonesia (ID)</h3>
+<h3 align="center">A passionate Fullstack Web Engineer from Indonesia (ID)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user4xn&label=Profile%20views&color=0e75b6&style=flat" alt="user4xn" /> </p>
 
-- 🔭 I’m currently working on [Komerce](https://github.com/Komerce)
+🔧 I’m currently working on cross-border shipping systems and commerce platforms
 
-- 🌱 I’m currently learning **Gin, Laravel, Lumen, Express.js, Vue, and Codeigniter**
+🌐 I’m exploring high-performance API architectures with Gin, Laravel, Lumen, and Go
 
-- 💬 Ask me about **Laravel, Lumen, Codeigniter**
+💡 I have experience in WebSockets, RabbitMQ, and Redis for real-time data processing
 
-- 📫 How to reach me **wildan.desperado@gmail.com**
+🎨 I also have frontend experience with Vue.js, Tailwind CSS, and Bootstrap
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/wildan-kurnia-candra-22483b158/](https://www.linkedin.com/in/wildan-kurnia-candra-22483b158/)
+📚 I’m currently learning Java Spring Boot to expand my backend expertise
 
-- ⚡ Fun fact **Id like to learn but with preassure**
+✉️ How to reach me: wildan.desperado@gmail.com
+
+📚 Know more about my experiences: LinkedIn
+
+⚡ Fun fact: I thrive under pressure and love solving complex problems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
